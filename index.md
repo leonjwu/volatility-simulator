@@ -1,6 +1,6 @@
 # Volatility Surface Explorer [(Webapp Link)](http://vol-app-prod.herokuapp.com/)
 
-The volatility surface explorer is a high-performance [webapp](http://vol-app-prod.herokuapp.com/) I created for exploratory data analysis of implied volatility surfaces. You can view historical surface dynamics in high resolution (up to 10 second intervals) through animations and reactive graphs.
+The volatility surface explorer is a reactive [webapp](http://vol-app-prod.herokuapp.com/) I created for exploratory data analysis of implied volatility surfaces. You can view historical surface dynamics in high resolution (up to 10 second intervals) through graph animations and reactive surfaces.
 
 Load up a preset within the app to explore interesting surface dynamics during times of low liquidity in options such as large moves in spot price and in expiring options. 
 

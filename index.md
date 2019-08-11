@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/leonwu4951/vol-model/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

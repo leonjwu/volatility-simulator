@@ -1,6 +1,9 @@
 ---
 driveId: 1w68Ee5j0dYrICXOFYAnG4MicH3gNwGTg
 ---
+---
+driveId2: 1-bfZ5j-9M-ZIdk5q6McbZMZ38oM0EHoJ
+---
 
 # Volatility Surface Explorer [(Webapp Link)](http://vol-app-prod.herokuapp.com/)
 
@@ -16,6 +19,8 @@ The volatility surface simulator is an interval backtesting tool I created to ba
 ## Surface Shock Recovery
 {% include googleDrivePlayer.html id=page.driveId %}
 
+## Option Nearing Expiry
+{% include googleDrivePlayer.html id=page.driveId2 %}
 
 ```markdown
 Syntax highlighted code block

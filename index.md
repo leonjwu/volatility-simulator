@@ -9,7 +9,9 @@ The volatility surface explorer is a reactive [webapp](http://vol-app-prod.herok
 
 Load up a preset within the app to explore interesting surface dynamics during times of low liquidity in options such as large moves in spot price and in expiring options. 
 
-Created in Plotly Dash (Python), CSS and HTML. 
+Created in Plotly Dash (Python), CSS and HTML.
+
+![Image](https://github.com/leonwu4951/volatility-simulator/blob/master/Volatility%20Simulator.PNG)
 
 # Volatility Surface Explorer (Internal Tool)
 The volatility surface simulator is an interval backtesting tool I created to backtest and benchmark my own improvements to the production stochastic volatilty model.

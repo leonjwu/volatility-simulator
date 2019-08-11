@@ -13,8 +13,8 @@ Load up a preset within the app to explore interesting surface dynamics during t
 
 Created in Plotly Dash (Python), CSS and HTML.
 
-# Volatility Surface Explorer (Internal Tool)
-The volatility surface simulator is an interval backtesting tool I created to backtest and benchmark my own improvements to the production stochastic volatilty model.
+# Volatility Surface Simulator (Internal Tool)
+The volatility surface simulator is an interval backtesting tool I created to **backtest and benchmark my own improvements to the production stochastic volatilty model.**
 
 ## My Improvements:
 - New weight functions
@@ -22,9 +22,9 @@ The volatility surface simulator is an interval backtesting tool I created to ba
 - No-arbitrage constraints
 - Robust regression methods
 - L1 norm methodologies to handle outliers more effectively
-- Liquidity models
+- New liquidity model
 - Smoothing functions
-- onstrained optimization methods
+- Constrained optimization methods
 
 ## Video Examples
 

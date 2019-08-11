@@ -1,3 +1,7 @@
+---
+driveId: 1w68Ee5j0dYrICXOFYAnG4MicH3gNwGTg
+---
+
 # Volatility Surface Explorer [(Webapp Link)](http://vol-app-prod.herokuapp.com/)
 
 The volatility surface explorer is a reactive [webapp](http://vol-app-prod.herokuapp.com/) I created for exploratory data analysis of implied volatility surfaces. You can view historical surface dynamics in high resolution (up to 10 second intervals) through graph animations and reactive surfaces.
@@ -8,6 +12,9 @@ Created in Plotly Dash (Python), CSS and HTML.
 
 # Volatility Surface Explorer (Internal Tool)
 The volatility surface simulator is an interval backtesting tool I created to backtest and benchmark my own improvements to the production stochastic volatilty model.
+
+## Surface Shock Recovery
+{% include googleDrivePlayer.html id=page.driveId %}
 
 
 ```markdown

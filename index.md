@@ -1,12 +1,14 @@
-# Welcome to GitHub Pages
+# Volatility Surface Explorer
 
-You can use the [editor on GitHub](https://github.com/leonwu4951/vol-model/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The volatility surface explorer is a high-performance [webapp](http://vol-app-prod.herokuapp.com/) I created for exploratory data analysis of implied volatility surfaces. You can view historical surface dynamics in high resolution (up to 10 second intervals) through animations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Load up a preset within the app to explore interesting surface dynamics during times of low liquidity such as expiring options, 
 
-### Markdown
+Created in Plotly Dash (Python), CSS and HTML. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+The volatility surface simulator is an interval backtesting tool I created to backtest and benchmark my own improvements to the production stochastic volatilty model.
+
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +27,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leonwu4951/vol-model/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

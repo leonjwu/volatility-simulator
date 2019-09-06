@@ -8,9 +8,7 @@ driveId2: 1-bfZ5j-9M-ZIdk5q6McbZMZ38oM0EHoJ/preview
 ![Image](/assets/2D.png)
 ![Image](/assets/3D.png)
 
-The volatility surface explorer is a reactive [webapp](http://app-prod-dev.eu-west-2.elasticbeanstalk.com/) I created for **exploratory data analysis of implied volatility surfaces**. You can view historical surface dynamics in high resolution (up to 10 second intervals) through graph animations and reactive surfaces.
-
-Load up a preset within the app to explore interesting surface dynamics during times of low liquidity in options such as large moves in spot price and in expiring options. 
+This volatility surface explorer is a reactive [webapp](http://app-prod-dev.eu-west-2.elasticbeanstalk.com/) I created, designed to be a tool for institutional traders and market makers. On the app, you can view proprietary implied volatility surface marks generated from my model, and explore live or historical volatility surfaces in 2D or 3D through simulations.
 
 Created in Plotly Dash (Python), CSS and HTML.
 

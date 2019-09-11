@@ -14,7 +14,7 @@ Using the tool, you can **view proprietary implied volatility surface marks gene
 Created in Plotly Dash (Python), CSS and HTML.
 
 # Volatility Surface Simulator (Internal Tool)
-The volatility surface simulator is an interval backtesting tool I created to **backtest and benchmark my own improvements to the production stochastic volatilty model.**
+The volatility surface simulator is an interval backtesting tool I created to **backtest and benchmark my own improvements to the production volatilty model.**
 
 ## My Improvements:
 - New weight functions

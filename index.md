@@ -10,7 +10,7 @@ driveId2: 1-bfZ5j-9M-ZIdk5q6McbZMZ38oM0EHoJ/preview
 
 This volatility surface explorer is an options trading and pricing tool I built, enabling market makers and traders to visualise real-time and historical simulations of volatility surfaces, market quotes, and trades.
 
-Using the tool, you can view proprietary implied volatility surface marks generated from my own model, and explore live or historical volatility surfaces in 2D or 3D through simulations.
+Using the tool, you can **view proprietary implied volatility surface marks generated from my own model**, and explore live or historical volatility surfaces in 2D or 3D through simulations.
 
 Created in Plotly Dash (Python), CSS and HTML.
 

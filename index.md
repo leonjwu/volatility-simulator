@@ -29,6 +29,8 @@ The volatility surface simulator is an interval backtesting tool I created to **
 
 ## Video Examples
 
+These examples show how my model improved the stability and accuracy of the volatility smile during times of extremely low liquidity.
+
 ### Surface Shock Recovery
 {% include googleDrivePlayer.html id=page.driveId %}
 

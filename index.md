@@ -1,20 +1,5 @@
----
-driveId: 1w68Ee5j0dYrICXOFYAnG4MicH3gNwGTg/preview
-driveId2: 1-bfZ5j-9M-ZIdk5q6McbZMZ38oM0EHoJ/preview
----
-# Volatility Surface Explorer > >[(Webapp Link)](http://vol-app-prod.us-east-2.elasticbeanstalk.com/)< < 
-
-![Image](/assets/2D.png)
-![Image](/assets/3D.png)
-
-This volatility surface explorer is an options trading and pricing tool I built, enabling market makers and traders to visualise real-time and historical simulations of volatility surfaces, market quotes, and trades.
-
-Using the tool, you can **view proprietary implied volatility surface marks generated from my own model**, and explore live or historical volatility surfaces in 2D or 3D through simulations.
-
-Created in Plotly Dash (Python), CSS and HTML.
-
 # Volatility Surface Simulator (Internal Tool)
-The volatility surface simulator is an interval backtesting tool I created to **backtest and benchmark my own improvements to the production volatilty model.**
+The volatility surface simulator is an internal backtesting tool I created to **backtest and benchmark my own improvements to the production volatilty model.**
 
 ## My Improvements:
 - New weight functions
@@ -35,3 +20,18 @@ These examples show how my model improved the stability and accuracy of the vola
 
 ### Option Nearing Expiry
 <iframe width="938" height="500" src="https://www.youtube.com/embed/W0GgPyomxOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+driveId: 1w68Ee5j0dYrICXOFYAnG4MicH3gNwGTg/preview
+driveId2: 1-bfZ5j-9M-ZIdk5q6McbZMZ38oM0EHoJ/preview
+---
+# Volatility Surface Explorer > >[(Webapp Link)](http://vol-app-prod.us-east-2.elasticbeanstalk.com/)< < 
+
+![Image](/assets/2D.png)
+![Image](/assets/3D.png)
+
+This volatility surface explorer is an options trading and pricing tool I built, enabling market makers and traders to visualise real-time and historical simulations of volatility surfaces, market quotes, and trades.
+
+Using the tool, you can **view proprietary implied volatility surface marks generated from my own model**, and explore live or historical volatility surfaces in 2D or 3D through simulations.
+
+Created in Plotly Dash (Python), CSS and HTML.

@@ -1,16 +1,6 @@
 # Volatility Surface Simulator (Internal Tool)
 The volatility surface simulator is an internal backtesting tool I created to **backtest and benchmark my own improvements to the production volatilty model.**
 
-## My Improvements:
-- New weight functions
-- New penalty functions
-- No-arbitrage constraints
-- Robust regression methods
-- L1 norm methodologies to handle outliers more effectively
-- New liquidity model
-- Smoothing functions
-- Constrained optimization methods
-
 ## Video Examples
 
 These examples show how my model improved the stability and accuracy of the volatility smile during times of extremely low liquidity.
@@ -21,9 +11,19 @@ These examples show how my model improved the stability and accuracy of the vola
 ### Option Nearing Expiry
 <iframe width="938" height="500" src="https://www.youtube.com/embed/W0GgPyomxOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+## My Improvements:
+- New weight functions
+- New penalty functions
+- No-arbitrage constraints
+- Robust regression methods
+- L1 norm methodologies to handle outliers more effectively
+- New liquidity model
+- Smoothing functions
+- Constrained optimization methods
+
+
 ---
-driveId: 1w68Ee5j0dYrICXOFYAnG4MicH3gNwGTg/preview
-driveId2: 1-bfZ5j-9M-ZIdk5q6McbZMZ38oM0EHoJ/preview
 ---
 # Volatility Surface Explorer > >[(Webapp Link)](http://vol-app-prod.us-east-2.elasticbeanstalk.com/)< < 
 
